@@ -1,2 +1,16 @@
-# Xray-Image-Stitching-and-MRI-Tumer-Detection
-This project integrates deep learning models with PyTorch, using SSIM for image quality assessment and pixel density analysis for precision. Key dependencies include TensorFlow, OpenCV, and scikit-learn, enabling a comprehensive approach to tumor detection and medical image analysis.
+Lightning Model - AI Chat Interface
+
+A React-based chat interface for interacting with Google's Gemini AI models, featuring flexible pricing models (pay-per-token or pay-per-request) with usage tracking.
+Features:
+    -Interactive chat interface with markdown support
+    -Two pricing models: Pay-per-token and Pay-per-request
+    -Real-time usage tracking with progress indicators
+    -Code formatting and syntax highlighting
+    -Responsive design with Tailwind CSS
+
+Installation:
+
+<code>git clone https://github.com/your-repo/lightning-model.git
+cd lightning-model</code>
+
+  
