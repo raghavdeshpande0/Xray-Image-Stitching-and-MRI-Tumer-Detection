@@ -1,4 +1,4 @@
-Lightning Model - AI Chat Interface
+# Lightning Model - AI Chat Interface
 
 A React-based chat interface for interacting with Google's Gemini AI models, featuring flexible pricing models (pay-per-token or pay-per-request) with usage tracking.
 Features:
@@ -8,9 +8,14 @@ Features:
     -Code formatting and syntax highlighting
     -Responsive design with Tailwind CSS
 
-Installation:
+### Installation:
 
 ```
 git clone https://github.com/your-repo/lightning-model.git 
-cd lightning-model 
+cd lightning-model
+npm install
+```
+### Install dependencies:
+```
+Hello World
 ```
