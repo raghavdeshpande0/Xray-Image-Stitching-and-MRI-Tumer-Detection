@@ -10,7 +10,7 @@ Features:
 
 Installation:
 
-<code>git clone https://github.com/your-repo/lightning-model.git
-cd lightning-model</code>
-
-  
+```
+git clone https://github.com/your-repo/lightning-model.git 
+cd lightning-model 
+```
